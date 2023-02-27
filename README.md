@@ -2,7 +2,7 @@
 <i>Repo for Assignment 2 for CSC 4850 Machine Learning with Dr J M Banda</i>
 
 ### Contents:
--[List of questsions and contents](#list-of-homework-contents)  
+-[List of questions and contents](#list-of-homework-contents)  
 -[Question Summary](#question-summary)  
 -[Packages Used](#packages-used)  
 -[Scikit Learn Documentation Links](#scikit-learn-documentation-referenced)  
@@ -14,7 +14,7 @@
   -Questions 2-6: Perceptron Algorithm<br>
   -Questions 7-11: Decision Tree Classifier<br>
   -Questions 12-16: Logistic Regression<br>
-  -Question 17: Copmarison of models looking at precision, recall and accuracy
+  -Question 17: Comparison of models looking at precision, recall and accuracy
 
 ### Question Summary
 Each algorithm Section of questions includes the following:
@@ -36,7 +36,7 @@ Each section also includes textual Q&A components for each code section.
 -[Matplotlib](https://matplotlib.org/) For all graphs and plots  
 
 ### Scikit Learn Documentation Referenced
-<i>Sklearn was the most prevelantly used package. The following were used along with the documentation for reference</i>  
+<i>Sklearn was the most prevalently used package. The following were used along with the documentation for reference</i>  
 # Models:  
 -[sklearn.linear_model.Perceptron](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)<br>
 -[sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)<br>
@@ -48,7 +48,7 @@ Each section also includes textual Q&A components for each code section.
 -[sklearn.datasets.load_wine](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)  
 
 ### About The Dataset  
-This assignment utelized a real world dataset built into Scikit learn.[It is a copy of UCI ML Wine recognition datasets](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data). The results are a summary of the chemical analysis of wines grown from different cultivars in Genoa Italy. It has thirteen chemical attributes and three classifcations of wine (labeled 0 to 2).  
+This assignment utilized  a real world dataset built into Scikit learn.[It is a copy of UCI ML Wine recognition datasets](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data). The results are a summary of the chemical analysis of wines grown from different cultivars in Genoa Italy. It has thirteen chemical attributes and three classifications of wine (labeled 0 to 2).  
 
 :Attribute Information:  
  		- Alcohol  
