@@ -36,7 +36,7 @@ Each section also includes textual Q&A components for each code section.
 -[Matplotlib](https://matplotlib.org/) For all graphs and plots  
 
 ### Scikit Learn Documentation Referenced
-<i>Sklearn was the most prevalently used package. The following were used along with the documentation for reference</i>  
+<i>Sklearn (scikit learn) was the most prevalently used package for this assignment. The following were used along with the documentation for reference</i>  
 # Models:  
 -[sklearn.linear_model.Perceptron](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)<br>
 -[sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)<br>
